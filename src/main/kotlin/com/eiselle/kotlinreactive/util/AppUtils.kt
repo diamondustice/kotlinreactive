@@ -1,3 +1,5 @@
+package com.eiselle.kotlinreactive.util
+
 import com.eiselle.kotlinreactive.dto.WeatherDay
 import com.eiselle.kotlinreactive.model.Period
 import java.time.LocalDate
